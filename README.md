@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/car-price-tool.git
+git clone https://github.com/iliya-ahmadi/car-price-tool.git
 
 cd car-price-tool
 
